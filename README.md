@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Look also my [gists](https://gist.github.com/potoyalo)
+:octocat: Look also my [gists](https://gist.github.com/potoyalo)
